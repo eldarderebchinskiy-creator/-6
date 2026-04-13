@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "dev.apex.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "TitleScreenMixin",
+    "GameRendererMixin",
+    "ChunkRenderDispatcherMixin",
+    "EntityRendererMixin",
+    "WorldRendererMixin",
+    "MinecraftClientMixin",
+    "InGameHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

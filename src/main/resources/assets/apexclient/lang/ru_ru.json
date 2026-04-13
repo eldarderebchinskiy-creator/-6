@@ -1,0 +1,24 @@
+{
+  "key.apexclient.open_gui": "Открыть меню Apex",
+  "category.apexclient": "Apex Client",
+
+  "apexclient.gui.title": "Apex Client",
+  "apexclient.gui.tab.render": "Рендер",
+  "apexclient.gui.tab.performance": "Производительность",
+  "apexclient.gui.tab.visual": "Визуал",
+  "apexclient.gui.tab.about": "О моде",
+
+  "apexclient.option.fastRender": "Быстрый рендер",
+  "apexclient.option.entityCulling": "Отсечение сущностей",
+  "apexclient.option.smartChunkLoading": "Умная загрузка чанков",
+  "apexclient.option.smoothLighting": "Плавное освещение",
+  "apexclient.option.disableEntityShadows": "Убрать тени сущностей",
+  "apexclient.option.noWeather": "Убрать погоду",
+  "apexclient.option.betterFPS": "Лучший FPS",
+  "apexclient.option.fpsCounter": "Счётчик FPS",
+  "apexclient.option.optimizedHUD": "Оптимизированный HUD",
+  "apexclient.option.reducedParticles": "Меньше частиц",
+  "apexclient.option.customTitleScreen": "Кастомное главное меню",
+  "apexclient.option.particles": "Частицы",
+  "apexclient.option.animatedBackground": "Анимированный фон"
+}

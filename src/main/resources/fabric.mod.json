@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "apexclient",
+  "version": "${version}",
+  "name": "Apex Client",
+  "description": "A stylish optimization client mod for Minecraft 1.21.4",
+  "authors": ["ApexDev"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/apexclient/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.apex.client.ApexClient"
+    ]
+  },
+  "mixins": [
+    "apexclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "key.apexclient.open_gui": "Open Apex GUI",
+  "category.apexclient": "Apex Client",
+
+  "apexclient.gui.title": "Apex Client",
+  "apexclient.gui.tab.render": "Render",
+  "apexclient.gui.tab.performance": "Performance",
+  "apexclient.gui.tab.visual": "Visual",
+  "apexclient.gui.tab.about": "About",
+
+  "apexclient.option.fastRender": "Fast Render",
+  "apexclient.option.entityCulling": "Entity Culling",
+  "apexclient.option.smartChunkLoading": "Smart Chunks",
+  "apexclient.option.smoothLighting": "Smooth Lighting",
+  "apexclient.option.disableEntityShadows": "No Entity Shadows",
+  "apexclient.option.noWeather": "No Weather FX",
+  "apexclient.option.betterFPS": "Better FPS",
+  "apexclient.option.fpsCounter": "FPS Counter",
+  "apexclient.option.optimizedHUD": "Optimized HUD",
+  "apexclient.option.reducedParticles": "Reduced Particles",
+  "apexclient.option.customTitleScreen": "Custom Title Screen",
+  "apexclient.option.particles": "Particles",
+  "apexclient.option.animatedBackground": "Animated Background"
+}
